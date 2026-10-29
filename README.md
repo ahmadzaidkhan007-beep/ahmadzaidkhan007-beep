@@ -1,5 +1,29 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Ahmad Zaid Khan<br><br>### 🚀 B.Tech CSE (Final Year) | Java Backend & Full-Stack Developer<br><br>I am a software engineering enthusiast passionate about building scalable backend systems, clean user interfaces, and solving real-world problems. Currently, I'm honing my skills in Java, Spring Boot, and modern web technologies, actively preparing for backend engineering roles.<br><br>## 💻 Tech Stack & Tools<br>- **Languages:** Java, JavaScript, TypeScript, HTML<br>- **Frameworks & Libraries:** Spring Boot, Tailwind CSS<br>- **Databases & BaaS:** MySQL, PostgreSQL, Supabase<br>- **Tools & Platforms:** Git, GitHub, Postman, Netlify, IntelliJ IDEA<br><br>## 🚀 Featured Projects<br>- 🚕 **Taxi Booking Web Application:** Developing a robust backend architecture using Java, Spring Boot, Spring Data JPA, and PostgreSQL. Features include end-to-end ride lifecycles (request, accept, complete), user role management, and dynamic fare calculation.<br>- 🌐 **Vidyasparsh Publication Portal:** Building a complete web solution with an administrative dashboard and order management system using HTML, Tailwind CSS, JavaScript, and Supabase.<br><br>## 💼 Experience & Milestones<br>- **Work & Internships:** Gained valuable professional experience with **Swift Academy**, alongside completing hands-on technical internships in Java Programming (*CodeAlpha*), Web Development (*Prodigy InfoTech*), and Frontend Development (*Internshala*).<br>- **Published Research:** Authored and published a research paper on a "Smart Attendance Face Recognition System" developed as an academic project.<br>- **Certifications:** Earned the **Google Cybersecurity Professional Certificate**.<br><br>## ⚡ Beyond the Code<br>When I'm not writing APIs or debugging code, you'll likely find me playing a strategic game of **chess** ♟️ or **traveling** 🎒 to explore new places and recharge.<br><br>## 📫 Let's Connect<br>- **LinkedIn:** [www.linkedin.com/in/ahmad-zaid-73oo8377]<br>- **Email:** [ahmadzaidkhan007@gmail.com]
+# Hi there! 👋 I'm Ahmad Zaid Khan
+
+### 🚀 B.Tech CSE (Final Year) | Java Backend & Full-Stack Developer
+
+Final-year B.Tech CSE student passionate about building scalable backend systems and clean web applications.
+
+## 💻 Tech Stack
+
+* **Core:** Java, Spring Boot, JavaScript, TypeScript, HTML, Tailwind CSS
+* **Databases & Tools:** PostgreSQL, MySQL, Supabase, Git, Postman, Netlify
+
+## 🚀 Projects
+
+* 🚕 **Taxi Booking System:** Java/Spring Boot backend managing end-to-end ride lifecycles, user roles, and dynamic fares.
+* 🌐 **Vidyasparsh Publication Portal:** Full-stack admin dashboard and order management built with Tailwind CSS, JS, and Supabase.
+
+## 💼 Experience & Achievements
+
+* **Experience:** Swift Academy | CodeAlpha (Java) | Prodigy InfoTech (Web) | Internshala (Frontend)
+* **Research:** Published paper on a "Smart Attendance Face Recognition System."
+* **Certifications:** Google Cybersecurity Professional Certificate.
+
+## 📫 Connect
+
+**LinkedIn:** [ahmad-zaid](https://www.google.com/search?q=https://www.linkedin.com/in/ahmad-zaid-73oo8377) | **Email:** [ahmadzaidkhan007@gmail.com](https://www.google.com/search?q=mailto%3Aahmadzaidkhan007%40gmail.com) | **Hobbies:** Chess ♟️ & Traveling 🎒
 
 
 ## 🌐 Socials:
